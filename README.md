@@ -27,9 +27,7 @@
 
 ## Usage
 
-<b style="color:brown;">
-I start learning the most beloved framework Svelte and this is my first app
-</b>
+***I start learning the most beloved framework [Svelte](https://svelte.dev) and this is my first app***
 
 ### Development
 
